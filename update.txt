@@ -1,0 +1,2 @@
+Hello from Second Branch
+Added text to update.txt
