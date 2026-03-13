@@ -1,1 +1,2 @@
-Hello from Second Branch
+some text
+other text
